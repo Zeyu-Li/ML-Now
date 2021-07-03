@@ -1,3 +1,4 @@
 # ML Now
 
-A collection of ML project
+A collection of ML projects
+
